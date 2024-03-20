@@ -72,4 +72,4 @@ Student [firstName=Catfish, lastName=Sturgeon, idNumber=A00456123, birthYear=78,
 This program was developed by [Your Name].
 
 ## Acknowledgments
-Special thanks to [Instructor Name] for providing the lab exercise and inspiration for this project.
+Special thanks to Jason Wilder for providing the lab exercise and inspiration for this project.
